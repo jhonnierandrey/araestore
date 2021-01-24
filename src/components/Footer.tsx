@@ -7,7 +7,6 @@ function Footer() {
                 <li><a href="/" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
                 <li><a href="/" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
                 <li><a href="/" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
-                <li><a href="/" className="icon brands fa-dribbble"><span className="label">Dribbble</span></a></li>
                 <li><a href="/" className="icon solid fa-envelope"><span className="label">Envelope</span></a></li>
             </ul>
             <ul className="menu">
@@ -15,6 +14,7 @@ function Footer() {
                 <li><a href="/">Terms of Use</a></li>
                 <li><a href="/">Privacy</a></li>
                 <li><a href="/">Contact</a></li>
+                <li><a href="#banner" className="scrolly">Go Up <i className="fas fa-arrow-circle-up"></i> </a></li>
             </ul>
             <span className="copyright">
                 &copy; 2021 Modas Emilse. All rights reserved.

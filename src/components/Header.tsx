@@ -12,10 +12,9 @@ function Header(){
                         <a href="/"><i className="far fa-user-circle"></i> <span className="icon solid fa-angle-down"></span></a>
                         <ul>
                             <li><a href="/">Log In</a></li>
-                            <li><a href="/">Right Sidebar</a></li>
-                            <li><a href="/">No Sidebar</a></li>
+                            <li><a href="/">Register</a></li>
                             <li>
-                                <a href="/">Submenu</a>
+                                <a href="/">Administration</a>
                                 <ul>
                                     <li><a href="/">My Account</a></li>
                                     <li><a href="/">Orders</a></li>
