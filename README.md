@@ -1,3 +1,3 @@
-# Modas Emilse Front End
+# Arae Game Store
 
-This is a Front End for the Modas Emilse API e-commerce using ReactJS + TypeScript.
+This is a e-commerce for Games Built using ReactJS + TypeScript.
